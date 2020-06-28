@@ -1,4 +1,4 @@
-#Version 0.4
+#Version 0.5
 #Davical + apache + postgres
 #---------------------------------------------------------------------
 #Default configuration: hostname: davical.example
